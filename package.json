@@ -1,0 +1,23 @@
+{
+  "name": "@aritra-kumar-bara-870740200/resume",
+  "version": "1.0.1",
+  "description": "Terminal resume of Aritra Kumar Bara",
+  "bin": {
+    "resume": "index.js"
+  },
+  "keywords": [
+    "resume",
+    "cli",
+    "npx",
+    "portfolio"
+  ],
+  "author": "Aritra Kumar Bara",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.6.2",
+    "figlet": "^1.9.4",
+    "gradient-string": "^3.0.0"
+  }
+}
